@@ -414,7 +414,7 @@ import pandas as pd
 connection_url = sa.URL.create(
     "mysql+mysqlconnector",  # Use MySQL connector
     username="root",          # Your MySQL username
-    password="Ilovemymom-1972",           # Your MySQL password
+    password="root",           # Your MySQL password
     host="localhost",         # Your MySQL server address
     database="forecast_db"    # Your database name
 )
