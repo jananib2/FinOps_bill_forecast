@@ -1,0 +1,11 @@
+cython
+pystan
+prophet
+sqlalchemy
+pyodbc
+seaborn
+joblib
+matplotlib
+scikit-learn
+openpyxl
+pymysql
