@@ -9,3 +9,5 @@ matplotlib
 scikit-learn
 openpyxl
 pymysql
+pandas
+numpy
