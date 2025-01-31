@@ -1,6 +1,6 @@
 import sys
-customer_id = 1900
-csp_customerId = 3
+customer_id = sys.argv[1]
+csp_customerId = sys.argv[2]
 cspId = 110
 print(customer_id)
 print(csp_customerId)
